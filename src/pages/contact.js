@@ -7,7 +7,7 @@ import Contactcall from '../components/Contact/Contactcall'
 const IndexPage = ({data}) => (
   <Layout>
     <Seo title="Contact" />
-    <Contactcall/>
+    <Contactcall/> 
   </Layout>
 )
 
