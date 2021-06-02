@@ -26,3 +26,14 @@
 .max-h{
   height: 600px;
 }
+
+
+.cen{
+  /* display: flex; */
+  margin-top: 100px;
+  margin-bottom: 380px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  justify-content: center;
+}

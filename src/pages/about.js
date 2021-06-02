@@ -10,7 +10,7 @@ import Dualinfoblock from '../components/Reuseable/DualInfoblock'
 
 const AboutPage = ({data}) => (
   <Layout>
-    <Seo title="Home" />
+    <Seo title="About" />
     <HeroSection
     img = {data.img.childImageSharp.fluid}
     title = "About some fun..."
