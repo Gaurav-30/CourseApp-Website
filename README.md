@@ -6,7 +6,7 @@
 
 ##Gatsby(for root file) 
 
-##React(all the fromt end code) 
+##React(all the front end code) 
 
 ##Netlify(for Deployment) 
 
