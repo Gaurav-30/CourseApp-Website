@@ -1,10 +1,15 @@
 ##Best Website Made my me Till Now...
+
 ##This is the website link   https://rg-webapp.netlify.app/
 
 ##So it is a full stack website which uses 
+
 ##Gatsby(for root file) 
+
 ##React(all the fromt end code) 
+
 ##Netlify(for Deployment) 
+
 ##Contentful(all my data us stored here.)
 
 
